@@ -1,0 +1,23 @@
+{
+  "name": "ajs-lab-test",
+  "version": "1.0.0",
+  "description": "Тестирование созданной библиотеки ajs-lab",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaZyablov/ajs-lab-test.git"
+  },
+  "author": "IlyaZyablov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlyaZyablov/ajs-lab-test/issues"
+  },
+  "homepage": "https://github.com/IlyaZyablov/ajs-lab-test#readme",
+  "dependencies": {
+    "@ilyazyablov/ajs-lab": "^1.0.0"
+  }
+}
